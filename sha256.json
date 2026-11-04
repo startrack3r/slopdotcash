@@ -4,6 +4,10 @@
     "sha256": "adb8c19daaab342412de3f3a99b453673bcdc3fc83121b8172e3a2b07f4b42f9"
   },
   {
+    "file": "after-desktop.mp4",
+    "sha256": "3d25babd954266173c78bb00aac39dad0ca5cd76630db841c18a02489c4b6d15"
+  },
+  {
     "file": "after-desktop.png",
     "sha256": "12c06da0b423fd8a4330336881643621ea27fb37200371dfb618a5c849f3eb10"
   },
@@ -16,6 +20,10 @@
     "sha256": "a2c65aa6c4c5d31cc9348e5a5367d19052cd3e5eb45a9fb97b687486fc040136"
   },
   {
+    "file": "after-mobile.mp4",
+    "sha256": "aa78f4d89c58fd7d9bcebd79fc7baaa2ea3651d4f1f361fa9dc821e8426b8503"
+  },
+  {
     "file": "after-mobile.png",
     "sha256": "0b89402729ff349fa95ed997d73ae01ab2c65f5ad3de008bdad7a84dbd14afef"
   },
@@ -24,12 +32,20 @@
     "sha256": "7b55d888c17fe24bc52f36c31b15726170d7a4515c7c9fb9937b986ff8f50250"
   },
   {
+    "file": "before-desktop.mp4",
+    "sha256": "c0f94b22f3dcd67e11869458472eab6ade7744be8998530626298a85851cca8f"
+  },
+  {
     "file": "before-desktop.png",
     "sha256": "2dff301e1621d962dc4ffda2318eb8df422321d4d391d01a9b274c3c2ed51a66"
   },
   {
     "file": "before-desktop.webm",
     "sha256": "a64903fa032e9bea4af8b19ccf46f4ab5b59f8514f2ec9984594203bf485805a"
+  },
+  {
+    "file": "before-mobile.mp4",
+    "sha256": "0d0e3d90162b0c8d6693058766587d68072739d6cfc7154832b5b5d478979bc5"
   },
   {
     "file": "before-mobile.png",
