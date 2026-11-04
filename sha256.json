@@ -1,0 +1,50 @@
+[
+  {
+    "file": "after-desktop-200-percent.png",
+    "sha256": "adb8c19daaab342412de3f3a99b453673bcdc3fc83121b8172e3a2b07f4b42f9"
+  },
+  {
+    "file": "after-desktop.png",
+    "sha256": "12c06da0b423fd8a4330336881643621ea27fb37200371dfb618a5c849f3eb10"
+  },
+  {
+    "file": "after-desktop.webm",
+    "sha256": "920cdc5c5eec90ffc9a57fc03fa837dee3e979c361a38f2e69a7d68f85d2e239"
+  },
+  {
+    "file": "after-mobile-200-percent.png",
+    "sha256": "a2c65aa6c4c5d31cc9348e5a5367d19052cd3e5eb45a9fb97b687486fc040136"
+  },
+  {
+    "file": "after-mobile.png",
+    "sha256": "0b89402729ff349fa95ed997d73ae01ab2c65f5ad3de008bdad7a84dbd14afef"
+  },
+  {
+    "file": "after-mobile.webm",
+    "sha256": "7b55d888c17fe24bc52f36c31b15726170d7a4515c7c9fb9937b986ff8f50250"
+  },
+  {
+    "file": "before-desktop.png",
+    "sha256": "2dff301e1621d962dc4ffda2318eb8df422321d4d391d01a9b274c3c2ed51a66"
+  },
+  {
+    "file": "before-desktop.webm",
+    "sha256": "a64903fa032e9bea4af8b19ccf46f4ab5b59f8514f2ec9984594203bf485805a"
+  },
+  {
+    "file": "before-mobile.png",
+    "sha256": "a1fecbb36e12e537950367cd4549a5a95666413a892806e45bd887346dd21fe5"
+  },
+  {
+    "file": "before-mobile.webm",
+    "sha256": "3c59a6019efe0e9ad98ff984ceef525e86c0eda7cd0c3ef3f2aa177d2470090d"
+  },
+  {
+    "file": "browser-diagnostics.json",
+    "sha256": "cab55f89e0ef1d33e50133baa2af1f33bc49508aae3f06445a731446c5012b26"
+  },
+  {
+    "file": "README.md",
+    "sha256": "8b650fc3ac71a678b7bf4af3ac522772475cc8e1253fc6f65844b00987d1a3d0"
+  }
+]

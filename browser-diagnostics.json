@@ -1,0 +1,12 @@
+[
+  {
+    "project": "chromium-desktop",
+    "status": "passed",
+    "diagnostics": "{\"sourceRevision\":\"7aade1c8b3e316ada0fde966950a9eab14b3fbf5\",\"failures\":[],\"unexpected\":[]}"
+  },
+  {
+    "project": "chromium-mobile",
+    "status": "passed",
+    "diagnostics": "{\"sourceRevision\":\"7aade1c8b3e316ada0fde966950a9eab14b3fbf5\",\"failures\":[],\"unexpected\":[]}"
+  }
+]
