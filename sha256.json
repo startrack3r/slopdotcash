@@ -38,13 +38,5 @@
   {
     "file": "before-mobile.webm",
     "sha256": "3c59a6019efe0e9ad98ff984ceef525e86c0eda7cd0c3ef3f2aa177d2470090d"
-  },
-  {
-    "file": "browser-diagnostics.json",
-    "sha256": "cab55f89e0ef1d33e50133baa2af1f33bc49508aae3f06445a731446c5012b26"
-  },
-  {
-    "file": "README.md",
-    "sha256": "8b650fc3ac71a678b7bf4af3ac522772475cc8e1253fc6f65844b00987d1a3d0"
   }
 ]
