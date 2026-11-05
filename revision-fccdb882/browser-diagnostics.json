@@ -1,0 +1,128 @@
+{
+  "beforeSource": "9d3bd9136d24bf00a8e6fbcde466ab0775babb61",
+  "afterSource": "fccdb882e4e3c86a8fd70b95ff4c7b249bddd223",
+  "beforeFixture": "d24dad9418a9957c4e229a73494dc46160b0fc75",
+  "afterFixture": "d32ca707a5a1fdce72972f30bb05841ee5934b2a",
+  "cases": [
+    {
+      "phase": "before",
+      "title": "an allocation rechecks its deadline on focus after a wall-clock jump",
+      "project": "chromium-desktop",
+      "status": "failed",
+      "filePrefix": "before-focus-desktop",
+      "diagnostics": {
+        "sourceRevision": "d24dad9418a9957c4e229a73494dc46160b0fc75",
+        "failures": [],
+        "unexpected": []
+      }
+    },
+    {
+      "phase": "before",
+      "title": "an allocation rechecks its deadline on visibilitychange after a wall-clock jump",
+      "project": "chromium-desktop",
+      "status": "failed",
+      "filePrefix": "before-visibilitychange-desktop",
+      "diagnostics": {
+        "sourceRevision": "d24dad9418a9957c4e229a73494dc46160b0fc75",
+        "failures": [],
+        "unexpected": []
+      }
+    },
+    {
+      "phase": "before",
+      "title": "an allocation rechecks its deadline on focus after a wall-clock jump",
+      "project": "chromium-mobile",
+      "status": "failed",
+      "filePrefix": "before-focus-mobile",
+      "diagnostics": {
+        "sourceRevision": "d24dad9418a9957c4e229a73494dc46160b0fc75",
+        "failures": [],
+        "unexpected": []
+      }
+    },
+    {
+      "phase": "before",
+      "title": "an allocation rechecks its deadline on visibilitychange after a wall-clock jump",
+      "project": "chromium-mobile",
+      "status": "failed",
+      "filePrefix": "before-visibilitychange-mobile",
+      "diagnostics": {
+        "sourceRevision": "d24dad9418a9957c4e229a73494dc46160b0fc75",
+        "failures": [],
+        "unexpected": []
+      }
+    },
+    {
+      "phase": "after",
+      "title": "an allocation rechecks its deadline on focus after a wall-clock jump",
+      "project": "chromium-desktop",
+      "status": "passed",
+      "filePrefix": "after-focus-desktop",
+      "diagnostics": {
+        "sourceRevision": "d32ca707a5a1fdce72972f30bb05841ee5934b2a",
+        "failures": [],
+        "unexpected": []
+      }
+    },
+    {
+      "phase": "after",
+      "title": "an allocation rechecks its deadline on visibilitychange after a wall-clock jump",
+      "project": "chromium-desktop",
+      "status": "passed",
+      "filePrefix": "after-visibilitychange-desktop",
+      "diagnostics": {
+        "sourceRevision": "d32ca707a5a1fdce72972f30bb05841ee5934b2a",
+        "failures": [],
+        "unexpected": []
+      }
+    },
+    {
+      "phase": "after",
+      "title": "an open allocation stops offering wallet registration when its deadline passes",
+      "project": "chromium-desktop",
+      "status": "passed",
+      "filePrefix": "after-timer-desktop",
+      "diagnostics": {
+        "sourceRevision": "d32ca707a5a1fdce72972f30bb05841ee5934b2a",
+        "failures": [],
+        "unexpected": []
+      }
+    },
+    {
+      "phase": "after",
+      "title": "an allocation rechecks its deadline on focus after a wall-clock jump",
+      "project": "chromium-mobile",
+      "status": "passed",
+      "filePrefix": "after-focus-mobile",
+      "diagnostics": {
+        "sourceRevision": "d32ca707a5a1fdce72972f30bb05841ee5934b2a",
+        "failures": [],
+        "unexpected": []
+      }
+    },
+    {
+      "phase": "after",
+      "title": "an allocation rechecks its deadline on visibilitychange after a wall-clock jump",
+      "project": "chromium-mobile",
+      "status": "passed",
+      "filePrefix": "after-visibilitychange-mobile",
+      "diagnostics": {
+        "sourceRevision": "d32ca707a5a1fdce72972f30bb05841ee5934b2a",
+        "failures": [],
+        "unexpected": []
+      }
+    },
+    {
+      "phase": "after",
+      "title": "an open allocation stops offering wallet registration when its deadline passes",
+      "project": "chromium-mobile",
+      "status": "passed",
+      "filePrefix": "after-timer-mobile",
+      "diagnostics": {
+        "sourceRevision": "d32ca707a5a1fdce72972f30bb05841ee5934b2a",
+        "failures": [],
+        "unexpected": []
+      }
+    }
+  ]
+}
