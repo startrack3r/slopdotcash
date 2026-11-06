@@ -1,0 +1,30 @@
+{
+  "origin": "Previously downloaded public slop.cash leaderboard and projects/project-revisions endpoints, prepared using scripts/prepare-pr-ledger.ts. No authenticated input.",
+  "base": "d80086e40911c8556bfe6418350fed5d2d974cf1",
+  "head": "ca32d32d0794db8598770898d3c6b62386d6b223",
+  "publicationClock": "2026-11-05T19:00:00.000Z",
+  "historySha256": "18a56b7b80ec2959e3853bc914667833a202b33cc76311917a4105ef8cb42d48",
+  "inputs": [
+    {
+      "path": "public/data/leaderboard.json",
+      "file": "inputs/leaderboard.json.gz",
+      "bytes": 31219398,
+      "sha256": "e4787327869d638170bf55f12a8d080e521fe603ea3652727c7a2d99e51da0fd",
+      "compressedSha256": "ad1c482cf0b7011d351734cf272aeefbf95216ccc4bb08d5c88bdc4007af0da9"
+    },
+    {
+      "path": "src/lib/project-registry.generated.mjs",
+      "file": "inputs/project-registry.generated.mjs.gz",
+      "bytes": 211544,
+      "sha256": "3554f01ba55f16f6ecd7ae2081f7d2d6c77307af66acce4ba724d01856ff5f5d",
+      "compressedSha256": "8b2bc230271cd43a4491a7f1dcad4390466b5ebdab713af6c1949bed101d9d93"
+    },
+    {
+      "path": "src/lib/project-revisions.generated.json",
+      "file": "inputs/project-revisions.generated.json.gz",
+      "bytes": 898898,
+      "sha256": "e2587e9aa62a8d3f3a83c84edf29334e4b36ffce99307f510ec06d47b481bb66",
+      "compressedSha256": "1e4d36a366356e58c63e1b4d42089624913389509e9fcc2fc4046a9c8c64d433"
+    }
+  ]
+}

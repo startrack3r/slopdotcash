@@ -1,0 +1,63 @@
+{
+  "purpose": "Portable driver validation, head then base in a fresh frozen-install checkout. These samples are not the original six-process benchmark.",
+  "head": {
+    "publicationClock": "2026-11-05T19:00:00.000Z",
+    "samples": [
+      3232.9901999999997,
+      3121.1057
+    ],
+    "median": 3177.04795,
+    "hashes": {
+      "public/data/points.json": "2708c697b8b100f85f6d255ab45e6f8dbdbbfbbd2d9bc2ed07d12c66ffbe8ca3",
+      "public/data/points-summary.json": "c772fe82c74a9eae51ed85d154f0f6bec432fe517783c996633232e2392f683e",
+      "public/data/points/0.json": "dc6bfc5a097ab1571a6febbe25ee634095d12344ac5870eba7ce92e716323610",
+      "public/data/points/1.json": "1786d855be584aa1203146cbbbd31f971b435c49afe6d89d76b1fd83fcc97e71",
+      "public/data/points/2.json": "1100ce9e605b2f2335b50f0812c439144734460d523af01b081323055d198341",
+      "public/data/points/3.json": "1f7ebff83b17a624f978966b1c25802d591ea4850cf175593c360f171ce3be17",
+      "public/data/points/4.json": "719ae288334adebc646d948779b8322540436269c566b6c611244c381e7d9e8d",
+      "public/data/points/5.json": "ee31b1ca79f2fa8120fd9d158badbf132a8e37eed6dd76f372de9cc00abd501a",
+      "public/data/points/6.json": "910d7e943c9a1c1fcd5097fb31755727f88e3243959bf2606c43cc0c39d68b11",
+      "public/data/points/7.json": "f6f3391418253ff20706e51c9e869538140c0d7233ed3afac1ee023cd1c3eaa3",
+      "public/data/points/8.json": "50855ee66fbe3e7453ca573c676d6c9eb30aa3154d45e569246005242862a436",
+      "public/data/points/9.json": "e7aa32cf865a466e03ca09b20e5b19f94b429780d89c2d33528a23a1641e6009",
+      "public/data/points/a.json": "8fcd7ab572f5640381ee58591c50269dc1d56eca1eaa02423d20b9e7a6e13bd7",
+      "public/data/points/b.json": "946456e5420be3e4fb75f661a18f9efcf0712f38cb01e59bf20bef658e0dc206",
+      "public/data/points/c.json": "d9b08d4f2340c902ac9a63f5127885a644fac86c170146626e4e6067777c3bdd",
+      "public/data/points/d.json": "2cff75d5b74831d20937ca3e04e30de008b06181a2f61962c81fb7f99f3b6844",
+      "public/data/points/e.json": "0603fa26e5ba83d1e7d65a8a65251efff2ae399b5ead6fdab54e6874ea3f13b8",
+      "public/data/points/f.json": "402a7549da65eff2455603f623e85c60a34cb4ebeca165f6df3379d3b287d837",
+      ".points-build/import.sql": "17e4859f1ba9a7e5fbe0cfc7b6bf82ef518b39981b57706c1d38d24726d4848b",
+      ".points-build/report.json": "84ad28e006c7270eefaf93ceadf6231aafe79d57ce46f8026c5455ffab1844bf"
+    }
+  },
+  "base": {
+    "publicationClock": "2026-11-05T19:00:00.000Z",
+    "samples": [
+      3493.893,
+      3182.1490000000003
+    ],
+    "median": 3338.021,
+    "hashes": {
+      "public/data/points.json": "2708c697b8b100f85f6d255ab45e6f8dbdbbfbbd2d9bc2ed07d12c66ffbe8ca3",
+      "public/data/points-summary.json": "c772fe82c74a9eae51ed85d154f0f6bec432fe517783c996633232e2392f683e",
+      "public/data/points/0.json": "dc6bfc5a097ab1571a6febbe25ee634095d12344ac5870eba7ce92e716323610",
+      "public/data/points/1.json": "1786d855be584aa1203146cbbbd31f971b435c49afe6d89d76b1fd83fcc97e71",
+      "public/data/points/2.json": "1100ce9e605b2f2335b50f0812c439144734460d523af01b081323055d198341",
+      "public/data/points/3.json": "1f7ebff83b17a624f978966b1c25802d591ea4850cf175593c360f171ce3be17",
+      "public/data/points/4.json": "719ae288334adebc646d948779b8322540436269c566b6c611244c381e7d9e8d",
+      "public/data/points/5.json": "ee31b1ca79f2fa8120fd9d158badbf132a8e37eed6dd76f372de9cc00abd501a",
+      "public/data/points/6.json": "910d7e943c9a1c1fcd5097fb31755727f88e3243959bf2606c43cc0c39d68b11",
+      "public/data/points/7.json": "f6f3391418253ff20706e51c9e869538140c0d7233ed3afac1ee023cd1c3eaa3",
+      "public/data/points/8.json": "50855ee66fbe3e7453ca573c676d6c9eb30aa3154d45e569246005242862a436",
+      "public/data/points/9.json": "e7aa32cf865a466e03ca09b20e5b19f94b429780d89c2d33528a23a1641e6009",
+      "public/data/points/a.json": "8fcd7ab572f5640381ee58591c50269dc1d56eca1eaa02423d20b9e7a6e13bd7",
+      "public/data/points/b.json": "946456e5420be3e4fb75f661a18f9efcf0712f38cb01e59bf20bef658e0dc206",
+      "public/data/points/c.json": "d9b08d4f2340c902ac9a63f5127885a644fac86c170146626e4e6067777c3bdd",
+      "public/data/points/d.json": "2cff75d5b74831d20937ca3e04e30de008b06181a2f61962c81fb7f99f3b6844",
+      "public/data/points/e.json": "0603fa26e5ba83d1e7d65a8a65251efff2ae399b5ead6fdab54e6874ea3f13b8",
+      "public/data/points/f.json": "402a7549da65eff2455603f623e85c60a34cb4ebeca165f6df3379d3b287d837",
+      ".points-build/import.sql": "17e4859f1ba9a7e5fbe0cfc7b6bf82ef518b39981b57706c1d38d24726d4848b",
+      ".points-build/report.json": "84ad28e006c7270eefaf93ceadf6231aafe79d57ce46f8026c5455ffab1844bf"
+    }
+  }
+}
